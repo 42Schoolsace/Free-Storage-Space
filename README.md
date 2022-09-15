@@ -2,7 +2,10 @@
 
 ### How to Install
 
-1. Copy the following and paste in your iTerm/Terminal ```git clone https://github.com/pasqualerossi/Free-Storage-Space.git```
+1. Copy the following and paste in your iTerm/Terminal:
+```
+git clone https://github.com/pasqualerossi/Free-Storage-Space.git
+```
 2. Then type `./CleanerInstaller.sh` in your iTerm/Terminal.
 3. Then type `./Cleaner_42.sh` in your iTerm/Terminal.
 4. You should now have more storage space. 
