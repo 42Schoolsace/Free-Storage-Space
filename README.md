@@ -1,7 +1,5 @@
 # Only for 42 Students
 
-### How to Install
-
 1. Copy the following and paste in your iTerm/Terminal:
 ```
 git clone https://github.com/pasqualerossi/Free-Storage-Space.git
